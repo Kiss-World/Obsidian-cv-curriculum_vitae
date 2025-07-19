@@ -4,9 +4,13 @@
 2. 无需调整格式，直接撰写内容就可以。
 3. 不会有任何广告的搔扰
 4. 可以保存无数份简历，也方便简历间内容的相互引用。
-5. 通过属性控制样式，不会影响 Obsidian 本身的使用。
+5. **通过属性控制样式，不会影响 Obsidian 本身的使用。**
 6. 可以方便的导出 pdf 
 7. 以及 Obsidian 本身所拥有的所有优点
+
+# 使用效果
+
+<img width="3040" height="1899" alt="Pasted image 20250719115525" src="https://github.com/user-attachments/assets/b8ef008a-aa4b-4f9f-bb7e-04f46b9ffc0e" />
 
 
 # 使用指引
@@ -21,7 +25,8 @@
 
 之所以可以实现简历样式，是通过css 样式文件控制的。所以第一件事，就是找到css文件，并放入到正确位置。
 
-![[Pasted image 20250719115133.png]]
+<img width="1871" height="1662" alt="Pasted image 20250719115133" src="https://github.com/user-attachments/assets/c9735d7e-34ea-4cd5-9046-914168ec4ba4" />
+
 
 按图，点击文件夹图标，然后将 css文件放入该文件夹，然后回到这个页面，点击刷新图标，然后开启这个文件。
 
@@ -37,7 +42,8 @@
 在左侧使用编辑模式，右侧使用阅读模式查看效果。
 在 Obsidian 中，使用 左右分屏即可实现这样的效果。
 
-![[Pasted image 20250719115525.png]]
+<img width="3040" height="1899" alt="Pasted image 20250719115525" src="https://github.com/user-attachments/assets/b8ef008a-aa4b-4f9f-bb7e-04f46b9ffc0e" />
+
 
 # 感谢
 
